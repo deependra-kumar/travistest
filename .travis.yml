@@ -1,4 +1,3 @@
 language: go
-script:
-  - echo hello
-  - env
+services:
+  - docker
